@@ -1,6 +1,6 @@
 import css from "./CafeInfo.module.css";
 
-export default function container() {
+export default function Container() {
   return (
     <div className={css.container}>
       <h1 className={css.title}>Sip Happens Café</h1>
